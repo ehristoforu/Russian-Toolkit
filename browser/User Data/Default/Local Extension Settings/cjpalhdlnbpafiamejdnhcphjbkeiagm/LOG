@@ -1,0 +1,51 @@
+2024/08/07-23:10:16.960 2458 Creating DB C:\Users\admin\Desktop\GoodByeDPI-UI\browser\User Data\Default\Local Extension Settings\cjpalhdlnbpafiamejdnhcphjbkeiagm since it was missing.
+2024/08/07-23:10:16.980 2458 Reusing MANIFEST C:\Users\admin\Desktop\GoodByeDPI-UI\browser\User Data\Default\Local Extension Settings\cjpalhdlnbpafiamejdnhcphjbkeiagm/MANIFEST-000001
+2024/08/07-23:10:26.238 71a0 Level-0 table #5: started
+2024/08/07-23:10:26.264 71a0 Level-0 table #5: 4197692 bytes OK
+2024/08/07-23:10:26.270 71a0 Delete type=0 #3
+2024/08/07-23:10:35.698 71a0 Level-0 table #7: started
+2024/08/07-23:10:35.727 71a0 Level-0 table #7: 4108739 bytes OK
+2024/08/07-23:10:35.733 71a0 Delete type=0 #4
+2024/08/07-23:10:43.374 71a0 Level-0 table #9: started
+2024/08/07-23:10:43.409 71a0 Level-0 table #9: 5078486 bytes OK
+2024/08/07-23:10:43.420 71a0 Delete type=0 #6
+2024/08/07-23:11:43.318 40dc Level-0 table #11: started
+2024/08/07-23:11:43.394 40dc Level-0 table #11: 7771759 bytes OK
+2024/08/07-23:11:43.403 40dc Delete type=0 #8
+2024/08/08-00:11:41.978 71a0 Level-0 table #13: started
+2024/08/08-00:11:42.020 71a0 Level-0 table #13: 5272653 bytes OK
+2024/08/08-00:11:42.024 71a0 Delete type=0 #10
+2024/08/08-00:11:46.765 1248 Level-0 table #15: started
+2024/08/08-00:11:46.840 1248 Level-0 table #15: 6966236 bytes OK
+2024/08/08-00:11:46.844 1248 Delete type=0 #12
+2024/08/08-00:11:46.851 2458 Compacting 4@0 + 1@1 files
+2024/08/08-00:11:46.899 2458 Generated table #16@0: 7 keys, 3340981 bytes
+2024/08/08-00:11:46.927 2458 Generated table #17@0: 4 keys, 2154991 bytes
+2024/08/08-00:11:46.960 2458 Generated table #18@0: 6 keys, 2424426 bytes
+2024/08/08-00:11:46.983 2458 Generated table #19@0: 3 keys, 2100498 bytes
+2024/08/08-00:11:47.088 2458 Generated table #20@0: 1 keys, 6957325 bytes
+2024/08/08-00:11:47.107 2458 Generated table #21@0: 8 keys, 1070003 bytes
+2024/08/08-00:11:47.107 2458 Compacted 4@0 + 1@1 files => 18048224 bytes
+2024/08/08-00:11:47.108 2458 compacted to: files[ 0 6 1 0 0 0 0 ]
+2024/08/08-00:11:47.110 2458 Delete type=2 #7
+2024/08/08-00:11:47.110 2458 Delete type=2 #9
+2024/08/08-00:11:47.110 2458 Delete type=2 #11
+2024/08/08-00:11:47.110 2458 Delete type=2 #13
+2024/08/08-00:11:47.111 2458 Delete type=2 #15
+2024/08/08-00:11:47.126 2458 Expanding@1 1+1 (3340981+4197692 bytes) to 6+1 (18048224+4197692 bytes)
+2024/08/08-00:11:47.126 2458 Compacting 6@1 + 1@2 files
+2024/08/08-00:11:47.161 2458 Generated table #22@1: 7 keys, 3340981 bytes
+2024/08/08-00:11:47.187 2458 Generated table #23@1: 4 keys, 2154991 bytes
+2024/08/08-00:11:47.219 2458 Generated table #24@1: 6 keys, 2424426 bytes
+2024/08/08-00:11:47.253 2458 Generated table #25@1: 5 keys, 2477124 bytes
+2024/08/08-00:11:47.344 2458 Generated table #26@1: 2 keys, 6966236 bytes
+2024/08/08-00:11:47.359 2458 Generated table #27@1: 15 keys, 1071871 bytes
+2024/08/08-00:11:47.359 2458 Compacted 6@1 + 1@2 files => 18435629 bytes
+2024/08/08-00:11:47.360 2458 compacted to: files[ 0 0 6 0 0 0 0 ]
+2024/08/08-00:11:47.362 2458 Delete type=2 #5
+2024/08/08-00:11:47.362 2458 Delete type=2 #16
+2024/08/08-00:11:47.362 2458 Delete type=2 #17
+2024/08/08-00:11:47.362 2458 Delete type=2 #18
+2024/08/08-00:11:47.362 2458 Delete type=2 #19
+2024/08/08-00:11:47.362 2458 Delete type=2 #20
+2024/08/08-00:11:47.362 2458 Delete type=2 #21

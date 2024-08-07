@@ -1,0 +1,1734 @@
+{
+   "7_days_money_back_guarantee": {
+      "description": "",
+      "message": "รับประกันคืนเงินภายใน 7 วัน"
+   },
+   "N_servers_in_N_virtual_Locations": {
+      "description": "",
+      "message": "เซิร์ฟเวอร์ AAA+ ใน BBB Virtual Locations"
+   },
+   "access_internet_via_premium_locations": {
+      "description": "",
+      "message": "เข้าถึงอินเทอร์เน็ตผ่านสถานที่ตั้งระดับพรีเมียมเพิ่มเติม"
+   },
+   "add_smart_setting_for_X": {
+      "description": "",
+      "message": "เพิ่มการตั้งค่าอัจฉริยะสำหรับ XXX"
+   },
+   "authentication_error_no_connection": {
+      "description": "",
+      "message": "ข้อผิดพลาดในการตรวจสอบสิทธิ์: ไม่สามารถเชื่อมต่อกับเซิร์ฟเวอร์ Browserc ได้"
+   },
+   "back": {
+      "description": "",
+      "message": "กลับ"
+   },
+   "because_your_proxy_settings_are_blocked": {
+      "description": "",
+      "message": " การเข้าถึงการตั้งค่าพร็อกซีถูกบล็อกโดยส่วนขยายอื่น"
+   },
+   "browsec_activated": {
+      "description": "",
+      "message": "เปิดใช้งาน Browserc"
+   },
+   "browsec_can_work_in_private_mode": {
+      "description": "",
+      "message": "คุณไม่สามารถควบคุม Browserc ในหน้าต่างส่วนตัวได้ แต่ถ้าไอคอน Browserc ทำงานอยู่ คุณก็จะได้รับการปกป้อง\\n\\nคุณสามารถเปิดหรือปิดการใช้งาน Browserc ได้ในหน้าต่าง Firefox ปกติของคุณ การตั้งค่า Browserc ทั้งหมดของคุณทำงานได้ทั้งในโหมดปกติและโหมดส่วนตัว"
+   },
+   "browsec_has_been_installed": {
+      "description": "",
+      "message": "ติดตั้ง Browserc แล้ว!"
+   },
+   "browsec_is_enabled": {
+      "description": "",
+      "message": "เปิดใช้งาน Browserc อีกครั้งแล้ว"
+   },
+   "browsec_off": {
+      "description": "",
+      "message": "ปิดเบราว์เซอร์"
+   },
+   "browsec_premium": {
+      "description": "",
+      "message": "Browserc พรีเมี่ยม"
+   },
+   "browser_action_inactive_title": {
+      "description": "",
+      "message": "เบราส์ค"
+   },
+   "cancel_editing": {
+      "description": "",
+      "message": "ยกเลิกการแก้ไข"
+   },
+   "cancel_subscription_at_any_time": {
+      "description": "",
+      "message": "ยกเลิกการสมัครสมาชิกได้ตลอดเวลา"
+   },
+   "cant_authenticate_please_contact_browsec_support": {
+      "description": "",
+      "message": "ไม่สามารถตรวจสอบสิทธิ์ได้ โปรดติดต่อฝ่ายสนับสนุนของ Browserc"
+   },
+   "cant_setup_secure_connection": {
+      "description": "",
+      "message": "เบราว์เซอร์ไม่สามารถตั้งค่าการเชื่อมต่อที่ปลอดภัยในเบราว์เซอร์ของคุณได้"
+   },
+   "cant_start_because_your_proxy_settings_blocked": {
+      "description": "",
+      "message": "Browserc ไม่สามารถเริ่ม VPN ได้ การตั้งค่าพร็อกซีของคุณถูกบล็อกโดยส่วนขยายอื่น"
+   },
+   "change": {
+      "description": "",
+      "message": "เปลี่ยน"
+   },
+   "change_location": {
+      "description": "",
+      "message": "เปลี่ยนสถานที่"
+   },
+   "change_timezone_according_to_virtual_location": {
+      "description": "",
+      "message": "เปลี่ยนเขตเวลาของเบราว์เซอร์ตามตำแหน่งเสมือนของคุณ"
+   },
+   "change_timezone_text_1": {
+      "description": "",
+      "message": "ตัวเลือกนี้จะเปลี่ยนเขตเวลาของเบราว์เซอร์ให้ตรงกับตำแหน่งเสมือนของคุณ"
+   },
+   "change_timezone_text_2": {
+      "description": "",
+      "message": "เว็บไซต์บางแห่งตรวจพบเขตเวลาของเบราว์เซอร์โดยใช้ฟังก์ชัน Javascript หากเขตเวลาของเบราว์เซอร์และที่อยู่ IP ของคุณแตกต่างกัน อาจเป็นสัญญาณของการใช้บริการ VPN หรือเทคนิคการลบข้อมูลระบุตัวตนอื่นๆ"
+   },
+   "change_timezone_text_3": {
+      "description": "",
+      "message": "เมื่อเปิดตัวเลือกนี้ เว็บไซต์จะตรวจไม่พบความแตกต่างของเขตเวลา"
+   },
+   "change_virtual_location": {
+      "description": "",
+      "message": "เปลี่ยนตำแหน่งเสมือน"
+   },
+   "check_browsec_api": {
+      "description": "",
+      "message": "ตรวจสอบ Browserc API"
+   },
+   "check_browsec_premium_plans": {
+      "description": "",
+      "message": "ตรวจสอบแผน Browserc พรีเมียม"
+   },
+   "check_conflicts_with_other_extensions": {
+      "description": "",
+      "message": "ตรวจสอบความขัดแย้งกับส่วนขยายอื่นๆ"
+   },
+   "check_http_internet_connection": {
+      "description": "",
+      "message": "ตรวจสอบการเชื่อมต่ออินเทอร์เน็ต HTTP"
+   },
+   "check_http_internet_connection_with_browsec": {
+      "description": "",
+      "message": "ตรวจสอบการเชื่อมต่ออินเทอร์เน็ต HTTP กับ Browserc"
+   },
+   "check_https_internet_connection": {
+      "description": "",
+      "message": "ตรวจสอบการเชื่อมต่ออินเทอร์เน็ต HTTPS"
+   },
+   "check_https_internet_connection_with_browsec": {
+      "description": "",
+      "message": "ตรวจสอบการเชื่อมต่ออินเทอร์เน็ต HTTPS กับ Browserc"
+   },
+   "check_proxy_settings": {
+      "description": "",
+      "message": "ตรวจสอบการตั้งค่าพร็อกซี"
+   },
+   "choose_your_virtual_location": {
+      "description": "",
+      "message": "เลือกตำแหน่งเสมือนของคุณและเข้าถึงเนื้อหาใด ๆ ที่ไม่มีให้บริการ"
+   },
+   "click_accept_terms_and_conditions": {
+      "description": "",
+      "message": "ยอมรับ"
+   },
+   "click_and_then_1": {
+      "description": "",
+      "message": "คลิก"
+   },
+   "click_and_then_2": {
+      "description": "",
+      "message": "แล้ว"
+   },
+   "click_here_privacy_policy": {
+      "description": "",
+      "message": "นโยบายความเป็นส่วนตัว"
+   },
+   "click_here_terms_conditions": {
+      "description": "",
+      "message": "เงื่อนไขการให้บริการ"
+   },
+   "click_here_to_agree_and_start": {
+      "description": "",
+      "message": "หากต้องการใช้แอป Browserc VPN\u003Cbr/>คุณต้องยอมรับ\u003Cbr/>{DIVIDER} และ\u003Cbr/>{DIVIDER}"
+   },
+   "click_here_to_start_vpn": {
+      "description": "",
+      "message": "คลิกที่นี่เพื่อ\u003Cbr/>เพื่อเริ่ม VPN"
+   },
+   "click_icon_on_toolbar_and_turn_on_protection": {
+      "description": "",
+      "message": "คลิกไอคอน Browserc ในแถบเครื่องมือ เปิดการป้องกันการจราจร เท่านี้คุณก็พร้อมแล้ว!"
+   },
+   "close_page": {
+      "description": "",
+      "message": "ปิดหน้า"
+   },
+   "completed": {
+      "description": "",
+      "message": "สมบูรณ์"
+   },
+   "congratulations_securing_your_browsing": {
+      "description": "",
+      "message": "อีกขั้นตอนหนึ่ง เบราว์เซอร์ของคุณก็จะปลอดภัยอย่างสมบูรณ์"
+   },
+   "contact_support": {
+      "description": "",
+      "message": "ติดต่อฝ่ายสนับสนุนของ Browserc"
+   },
+   "contact_us": {
+      "description": "",
+      "message": "ติดต่อเรา"
+   },
+   "continue_using_browsec_to_open_websites": {
+      "description": "",
+      "message": "คุณสามารถใช้ Browserc ต่อไปได้ ขอบคุณ!"
+   },
+   "continue_using_premium": {
+      "description": "",
+      "message": "ใช้ Browserc พรีเมี่ยมต่อไป"
+   },
+   "copy_to_clipboard": {
+      "description": "",
+      "message": "คัดลอกไปยังคลิปบอร์ด"
+   },
+   "country_ac": {
+      "description": "",
+      "message": "เกาะแอสเซนชัน"
+   },
+   "country_ad": {
+      "description": "",
+      "message": "อันดอร์รา"
+   },
+   "country_ae": {
+      "description": "",
+      "message": "สหรัฐอาหรับเอมิเรตส์"
+   },
+   "country_af": {
+      "description": "",
+      "message": "อัฟกานิสถาน"
+   },
+   "country_ag": {
+      "description": "",
+      "message": "แอนติกาและบาร์บูดา"
+   },
+   "country_ai": {
+      "description": "",
+      "message": "แองกวิลลา"
+   },
+   "country_al": {
+      "description": "",
+      "message": "แอลเบเนีย"
+   },
+   "country_am": {
+      "description": "",
+      "message": "อาร์เมเนีย"
+   },
+   "country_an": {
+      "description": "",
+      "message": "เนเธอร์แลนด์"
+   },
+   "country_ao": {
+      "description": "",
+      "message": "แองโกลา"
+   },
+   "country_aq": {
+      "description": "",
+      "message": "แอนตาร์กติกา"
+   },
+   "country_ar": {
+      "description": "",
+      "message": "อาร์เจนตินา"
+   },
+   "country_as": {
+      "description": "",
+      "message": "อเมริกันซามัว"
+   },
+   "country_at": {
+      "description": "",
+      "message": "ออสเตรีย"
+   },
+   "country_au": {
+      "description": "",
+      "message": "ออสเตรเลีย"
+   },
+   "country_aw": {
+      "description": "",
+      "message": "อารูบา"
+   },
+   "country_ax": {
+      "description": "",
+      "message": "หมู่เกาะโอลันด์"
+   },
+   "country_az": {
+      "description": "",
+      "message": "อาเซอร์ไบจาน"
+   },
+   "country_ba": {
+      "description": "",
+      "message": "บอสเนีย"
+   },
+   "country_bb": {
+      "description": "",
+      "message": "บาร์เบโดส"
+   },
+   "country_bd": {
+      "description": "",
+      "message": "บังคลาเทศ"
+   },
+   "country_be": {
+      "description": "",
+      "message": "เบลเยียม"
+   },
+   "country_bf": {
+      "description": "",
+      "message": "บูร์กินาฟาโซ"
+   },
+   "country_bg": {
+      "description": "",
+      "message": "บัลแกเรีย"
+   },
+   "country_bh": {
+      "description": "",
+      "message": "บาห์เรน"
+   },
+   "country_bi": {
+      "description": "",
+      "message": "บุรุนดี"
+   },
+   "country_bj": {
+      "description": "",
+      "message": "เบนิน"
+   },
+   "country_bl": {
+      "description": "",
+      "message": "เซนต์บาร์เธเลมี"
+   },
+   "country_bm": {
+      "description": "",
+      "message": "เบอร์มิวดา"
+   },
+   "country_bn": {
+      "description": "",
+      "message": "บรูไน"
+   },
+   "country_bo": {
+      "description": "",
+      "message": "โบลิเวีย"
+   },
+   "country_bq": {
+      "description": "",
+      "message": "เนเธอร์แลนด์แคริบเบียน"
+   },
+   "country_br": {
+      "description": "",
+      "message": "บราซิล"
+   },
+   "country_bs": {
+      "description": "",
+      "message": "บาฮามาส"
+   },
+   "country_bt": {
+      "description": "",
+      "message": "ภูฏาน"
+   },
+   "country_bv": {
+      "description": "",
+      "message": "เกาะบูเวต์"
+   },
+   "country_bw": {
+      "description": "",
+      "message": "บอตสวานา"
+   },
+   "country_by": {
+      "description": "",
+      "message": "เบลารุส"
+   },
+   "country_bz": {
+      "description": "",
+      "message": "เบลีซ"
+   },
+   "country_ca": {
+      "description": "",
+      "message": "แคนาดา"
+   },
+   "country_cc": {
+      "description": "",
+      "message": "หมู่เกาะโคโคส (คีลิง)"
+   },
+   "country_cd": {
+      "description": "",
+      "message": "คองโก (DRC)"
+   },
+   "country_cf": {
+      "description": "",
+      "message": "สาธารณรัฐอัฟริกากลาง"
+   },
+   "country_cg": {
+      "description": "",
+      "message": "คองโก (สาธารณรัฐ)"
+   },
+   "country_ch": {
+      "description": "",
+      "message": "สวิตเซอร์แลนด์"
+   },
+   "country_ci": {
+      "description": "",
+      "message": "โกตดิวัวร์"
+   },
+   "country_ck": {
+      "description": "",
+      "message": "หมู่เกาะคุก"
+   },
+   "country_cl": {
+      "description": "",
+      "message": "ชิลี"
+   },
+   "country_cm": {
+      "description": "",
+      "message": "แคเมอรูน"
+   },
+   "country_cn": {
+      "description": "",
+      "message": "จีน"
+   },
+   "country_co": {
+      "description": "",
+      "message": "โคลอมเบีย"
+   },
+   "country_cp": {
+      "description": "",
+      "message": "เกาะคลิปเปอร์ตัน"
+   },
+   "country_cr": {
+      "description": "",
+      "message": "คอสตาริกา"
+   },
+   "country_cu": {
+      "description": "",
+      "message": "คิวบา"
+   },
+   "country_cv": {
+      "description": "",
+      "message": "เคปเวิร์ด"
+   },
+   "country_cw": {
+      "description": "",
+      "message": "คูราเซา"
+   },
+   "country_cx": {
+      "description": "",
+      "message": "เกาะคริสต์มาส"
+   },
+   "country_cy": {
+      "description": "",
+      "message": "ไซปรัส"
+   },
+   "country_cz": {
+      "description": "",
+      "message": "สาธารณรัฐเช็ก"
+   },
+   "country_de": {
+      "description": "",
+      "message": "เยอรมนี"
+   },
+   "country_dg": {
+      "description": "",
+      "message": "ดิเอโก้ การ์เซีย"
+   },
+   "country_dj": {
+      "description": "",
+      "message": "จิบูตี"
+   },
+   "country_dk": {
+      "description": "",
+      "message": "เดนมาร์ก"
+   },
+   "country_dm": {
+      "description": "",
+      "message": "โดมินิกา"
+   },
+   "country_do": {
+      "description": "",
+      "message": "สาธารณรัฐโดมินิกัน"
+   },
+   "country_dz": {
+      "description": "",
+      "message": "แอลจีเรีย"
+   },
+   "country_ea": {
+      "description": "",
+      "message": "เซวต้า และ เมลิญ่า"
+   },
+   "country_ec": {
+      "description": "",
+      "message": "เอกวาดอร์"
+   },
+   "country_ee": {
+      "description": "",
+      "message": "เอสโตเนีย"
+   },
+   "country_eg": {
+      "description": "",
+      "message": "อียิปต์"
+   },
+   "country_eh": {
+      "description": "",
+      "message": "ซาฮาร่าตะวันตก"
+   },
+   "country_er": {
+      "description": "",
+      "message": "เอริเทรีย"
+   },
+   "country_es": {
+      "description": "",
+      "message": "สเปน"
+   },
+   "country_et": {
+      "description": "",
+      "message": "เอธิโอเปีย"
+   },
+   "country_eu": {
+      "description": "",
+      "message": "สหภาพยุโรป"
+   },
+   "country_fi": {
+      "description": "",
+      "message": "ฟินแลนด์"
+   },
+   "country_fj": {
+      "description": "",
+      "message": "ฟิจิ"
+   },
+   "country_fk": {
+      "description": "",
+      "message": "หมู่เกาะฟอล์กแลนด์"
+   },
+   "country_fm": {
+      "description": "",
+      "message": "ไมโครนีเซีย"
+   },
+   "country_fo": {
+      "description": "",
+      "message": "หมู่เกาะแฟโร"
+   },
+   "country_fr": {
+      "description": "",
+      "message": "ฝรั่งเศส"
+   },
+   "country_ga": {
+      "description": "",
+      "message": "กาบอง"
+   },
+   "country_gb": {
+      "description": "",
+      "message": "ประเทศอังกฤษ"
+   },
+   "country_gd": {
+      "description": "",
+      "message": "เกรเนดา"
+   },
+   "country_ge": {
+      "description": "",
+      "message": "จอร์เจีย"
+   },
+   "country_gf": {
+      "description": "",
+      "message": "เฟรนช์เกีย"
+   },
+   "country_gg": {
+      "description": "",
+      "message": "เกิร์นซีย์"
+   },
+   "country_gh": {
+      "description": "",
+      "message": "กานา"
+   },
+   "country_gi": {
+      "description": "",
+      "message": "ยิบรอลตาร์"
+   },
+   "country_gl": {
+      "description": "",
+      "message": "กรีนแลนด์"
+   },
+   "country_gm": {
+      "description": "",
+      "message": "แกมเบีย"
+   },
+   "country_gn": {
+      "description": "",
+      "message": "กินี"
+   },
+   "country_gp": {
+      "description": "",
+      "message": "กวาเดอลูป"
+   },
+   "country_gq": {
+      "description": "",
+      "message": "อิเควทอเรียลกินี"
+   },
+   "country_gr": {
+      "description": "",
+      "message": "กรีซ"
+   },
+   "country_gs": {
+      "description": "",
+      "message": "เกาะเซาท์จอร์เจียและหมู่เกาะเซาท์แซนด์วิช"
+   },
+   "country_gt": {
+      "description": "",
+      "message": "กัวเตมาลา"
+   },
+   "country_gu": {
+      "description": "",
+      "message": "กวม"
+   },
+   "country_gw": {
+      "description": "",
+      "message": "กินี-บิสเซา"
+   },
+   "country_gy": {
+      "description": "",
+      "message": "กายอานา"
+   },
+   "country_hk": {
+      "description": "",
+      "message": "ฮ่องกง"
+   },
+   "country_hm": {
+      "description": "",
+      "message": "หมู่เกาะเฮิร์ดและหมู่เกาะแมกดอนัลด์"
+   },
+   "country_hn": {
+      "description": "",
+      "message": "ฮอนดูรัส"
+   },
+   "country_hr": {
+      "description": "",
+      "message": "โครเอเชีย"
+   },
+   "country_ht": {
+      "description": "",
+      "message": "เฮติ"
+   },
+   "country_hu": {
+      "description": "",
+      "message": "ฮังการี"
+   },
+   "country_ic": {
+      "description": "",
+      "message": "หมู่เกาะคะเนรี"
+   },
+   "country_id": {
+      "description": "",
+      "message": "อินโดนีเซีย"
+   },
+   "country_ie": {
+      "description": "",
+      "message": "ไอร์แลนด์"
+   },
+   "country_il": {
+      "description": "",
+      "message": "อิสราเอล"
+   },
+   "country_im": {
+      "description": "",
+      "message": "เกาะแมน"
+   },
+   "country_in": {
+      "description": "",
+      "message": "อินเดีย"
+   },
+   "country_io": {
+      "description": "",
+      "message": "บริติชอินเดียนโอเชียนเทร์ริทอรี"
+   },
+   "country_iq": {
+      "description": "",
+      "message": "อิรัก"
+   },
+   "country_ir": {
+      "description": "",
+      "message": "อิหร่าน"
+   },
+   "country_is": {
+      "description": "",
+      "message": "ไอซ์แลนด์"
+   },
+   "country_it": {
+      "description": "",
+      "message": "อิตาลี"
+   },
+   "country_je": {
+      "description": "",
+      "message": "เจอร์ซีย์"
+   },
+   "country_jm": {
+      "description": "",
+      "message": "จาเมกา"
+   },
+   "country_jo": {
+      "description": "",
+      "message": "จอร์แดน"
+   },
+   "country_jp": {
+      "description": "",
+      "message": "ญี่ปุ่น"
+   },
+   "country_ke": {
+      "description": "",
+      "message": "เคนยา"
+   },
+   "country_kg": {
+      "description": "",
+      "message": "คีร์กีซสถาน"
+   },
+   "country_kh": {
+      "description": "",
+      "message": "กัมพูชา"
+   },
+   "country_ki": {
+      "description": "",
+      "message": "คิริบาส"
+   },
+   "country_km": {
+      "description": "",
+      "message": "คอโมโรส"
+   },
+   "country_kn": {
+      "description": "",
+      "message": "เซนต์คิตส์และเนวิส"
+   },
+   "country_kp": {
+      "description": "",
+      "message": "เกาหลีเหนือ"
+   },
+   "country_kr": {
+      "description": "",
+      "message": "เกาหลีใต้"
+   },
+   "country_kw": {
+      "description": "",
+      "message": "คูเวต"
+   },
+   "country_ky": {
+      "description": "",
+      "message": "หมู่เกาะเคย์เเมน"
+   },
+   "country_kz": {
+      "description": "",
+      "message": "คาซัคสถาน"
+   },
+   "country_la": {
+      "description": "",
+      "message": "ลาว"
+   },
+   "country_lb": {
+      "description": "",
+      "message": "เลบานอน"
+   },
+   "country_lc": {
+      "description": "",
+      "message": "เซนต์ลูเซีย"
+   },
+   "country_li": {
+      "description": "",
+      "message": "ลิกเตนสไตน์"
+   },
+   "country_lk": {
+      "description": "",
+      "message": "ศรีลังกา"
+   },
+   "country_lr": {
+      "description": "",
+      "message": "ไลบีเรีย"
+   },
+   "country_ls": {
+      "description": "",
+      "message": "เลโซโท"
+   },
+   "country_lt": {
+      "description": "",
+      "message": "ลิทัวเนีย"
+   },
+   "country_lu": {
+      "description": "",
+      "message": "ลักเซมเบิร์ก"
+   },
+   "country_lv": {
+      "description": "",
+      "message": "ลัตเวีย"
+   },
+   "country_ly": {
+      "description": "",
+      "message": "ลิเบีย"
+   },
+   "country_ma": {
+      "description": "",
+      "message": "โมร็อกโก"
+   },
+   "country_mc": {
+      "description": "",
+      "message": "โมนาโก"
+   },
+   "country_md": {
+      "description": "",
+      "message": "มอลโดวา"
+   },
+   "country_me": {
+      "description": "",
+      "message": "มอนเตเนโกร"
+   },
+   "country_mf": {
+      "description": "",
+      "message": "เซนต์มาร์ติน"
+   },
+   "country_mg": {
+      "description": "",
+      "message": "มาดากัสการ์"
+   },
+   "country_mh": {
+      "description": "",
+      "message": "หมู่เกาะมาร์แชลล์"
+   },
+   "country_mk": {
+      "description": "",
+      "message": "มาซิโดเนีย"
+   },
+   "country_ml": {
+      "description": "",
+      "message": "มาลี"
+   },
+   "country_mm": {
+      "description": "",
+      "message": "พม่า"
+   },
+   "country_mn": {
+      "description": "",
+      "message": "มองโกเลีย"
+   },
+   "country_mo": {
+      "description": "",
+      "message": "มาเก๊า"
+   },
+   "country_mp": {
+      "description": "",
+      "message": "หมู่เกาะนอร์เทิร์นมาเรียนา"
+   },
+   "country_mq": {
+      "description": "",
+      "message": "มาร์ตินีก"
+   },
+   "country_mr": {
+      "description": "",
+      "message": "มอริเตเนีย"
+   },
+   "country_ms": {
+      "description": "",
+      "message": "มอนต์เซอร์รัต"
+   },
+   "country_mt": {
+      "description": "",
+      "message": "มอลตา"
+   },
+   "country_mu": {
+      "description": "",
+      "message": "มอริเชียส"
+   },
+   "country_mv": {
+      "description": "",
+      "message": "มัลดีฟส์"
+   },
+   "country_mw": {
+      "description": "",
+      "message": "มาลาวี"
+   },
+   "country_mx": {
+      "description": "",
+      "message": "เม็กซิโก"
+   },
+   "country_my": {
+      "description": "",
+      "message": "มาเลเซีย"
+   },
+   "country_mz": {
+      "description": "",
+      "message": "โมซัมบิก"
+   },
+   "country_na": {
+      "description": "",
+      "message": "นามิเบีย"
+   },
+   "country_nc": {
+      "description": "",
+      "message": "นิวแคลิโดเนีย"
+   },
+   "country_ne": {
+      "description": "",
+      "message": "ไนเจอร์"
+   },
+   "country_nf": {
+      "description": "",
+      "message": "เกาะนอร์ฟอล์ก"
+   },
+   "country_ng": {
+      "description": "",
+      "message": "ไนจีเรีย"
+   },
+   "country_ni": {
+      "description": "",
+      "message": "นิการากัว"
+   },
+   "country_nl": {
+      "description": "",
+      "message": "เนเธอร์แลนด์"
+   },
+   "country_no": {
+      "description": "",
+      "message": "นอร์เวย์"
+   },
+   "country_np": {
+      "description": "",
+      "message": "เนปาล"
+   },
+   "country_nr": {
+      "description": "",
+      "message": "นาอูรู"
+   },
+   "country_nu": {
+      "description": "",
+      "message": "นีอูเอ"
+   },
+   "country_nz": {
+      "description": "",
+      "message": "นิวซีแลนด์"
+   },
+   "country_om": {
+      "description": "",
+      "message": "โอมาน"
+   },
+   "country_pa": {
+      "description": "",
+      "message": "ปานามา"
+   },
+   "country_pe": {
+      "description": "",
+      "message": "เปรู"
+   },
+   "country_pf": {
+      "description": "",
+      "message": "เฟรนช์โปลินีเซีย"
+   },
+   "country_pg": {
+      "description": "",
+      "message": "ปาปัวนิวกินี"
+   },
+   "country_ph": {
+      "description": "",
+      "message": "ฟิลิปปินส์"
+   },
+   "country_pk": {
+      "description": "",
+      "message": "ปากีสถาน"
+   },
+   "country_pl": {
+      "description": "",
+      "message": "โปแลนด์"
+   },
+   "country_pm": {
+      "description": "",
+      "message": "แซงปีแยร์และมีเกอลง"
+   },
+   "country_pn": {
+      "description": "",
+      "message": "หมู่เกาะพิตแคร์น"
+   },
+   "country_pr": {
+      "description": "",
+      "message": "เปอร์โตริโก้"
+   },
+   "country_ps": {
+      "description": "",
+      "message": "ปาเลสไตน์"
+   },
+   "country_pt": {
+      "description": "",
+      "message": "โปรตุเกส"
+   },
+   "country_pw": {
+      "description": "",
+      "message": "ปาเลา"
+   },
+   "country_py": {
+      "description": "",
+      "message": "ประเทศปารากวัย"
+   },
+   "country_qa": {
+      "description": "",
+      "message": "กาตาร์"
+   },
+   "country_qo": {
+      "description": "",
+      "message": "นอกโอเชียเนีย"
+   },
+   "country_re": {
+      "description": "",
+      "message": "เรอูนียง"
+   },
+   "country_ro": {
+      "description": "",
+      "message": "โรมาเนีย"
+   },
+   "country_rs": {
+      "description": "",
+      "message": "เซอร์เบีย"
+   },
+   "country_ru": {
+      "description": "",
+      "message": "รัสเซีย"
+   },
+   "country_rw": {
+      "description": "",
+      "message": "รวันดา"
+   },
+   "country_sa": {
+      "description": "",
+      "message": "ซาอุดิอาราเบีย"
+   },
+   "country_sb": {
+      "description": "",
+      "message": "หมู่เกาะโซโลมอน"
+   },
+   "country_sc": {
+      "description": "",
+      "message": "เซเชลส์"
+   },
+   "country_sd": {
+      "description": "",
+      "message": "ซูดาน"
+   },
+   "country_se": {
+      "description": "",
+      "message": "สวีเดน"
+   },
+   "country_sg": {
+      "description": "",
+      "message": "สิงคโปร์"
+   },
+   "country_sh": {
+      "description": "",
+      "message": "เซนต์เฮเลน่า"
+   },
+   "country_si": {
+      "description": "",
+      "message": "สโลวีเนีย"
+   },
+   "country_sj": {
+      "description": "",
+      "message": "สฟาลบาร์และยานไมเอน"
+   },
+   "country_sk": {
+      "description": "",
+      "message": "สโลวาเกีย"
+   },
+   "country_sl": {
+      "description": "",
+      "message": "เซียร์ราลีโอน"
+   },
+   "country_sm": {
+      "description": "",
+      "message": "ซานมารีโน"
+   },
+   "country_sn": {
+      "description": "",
+      "message": "เซเนกัล"
+   },
+   "country_so": {
+      "description": "",
+      "message": "โซมาเลีย"
+   },
+   "country_sr": {
+      "description": "",
+      "message": "ซูรินาเม"
+   },
+   "country_ss": {
+      "description": "",
+      "message": "ซูดานใต้"
+   },
+   "country_st": {
+      "description": "",
+      "message": "เซาตูเมและปรินซิปี"
+   },
+   "country_sv": {
+      "description": "",
+      "message": "เอลซัลวาดอร์"
+   },
+   "country_sx": {
+      "description": "",
+      "message": "ซินต์มาร์เท่น"
+   },
+   "country_sy": {
+      "description": "",
+      "message": "ซีเรีย"
+   },
+   "country_sz": {
+      "description": "",
+      "message": "สวาซิแลนด์"
+   },
+   "country_ta": {
+      "description": "",
+      "message": "ทริสตัน ดา กุนยา"
+   },
+   "country_tc": {
+      "description": "",
+      "message": "หมู่เกาะเติกส์และหมู่เกาะเคคอส"
+   },
+   "country_td": {
+      "description": "",
+      "message": "ชาด"
+   },
+   "country_tf": {
+      "description": "",
+      "message": "ดินแดนทางใต้ของฝรั่งเศส"
+   },
+   "country_tg": {
+      "description": "",
+      "message": "ไป"
+   },
+   "country_th": {
+      "description": "",
+      "message": "ประเทศไทย"
+   },
+   "country_tj": {
+      "description": "",
+      "message": "ทาจิกิสถาน"
+   },
+   "country_tk": {
+      "description": "",
+      "message": "โตเกเลา"
+   },
+   "country_tl": {
+      "description": "",
+      "message": "ติมอร์ตะวันออก"
+   },
+   "country_tm": {
+      "description": "",
+      "message": "เติร์กเมนิสถาน"
+   },
+   "country_tn": {
+      "description": "",
+      "message": "ตูนิเซีย"
+   },
+   "country_to": {
+      "description": "",
+      "message": "ตองกา"
+   },
+   "country_tr": {
+      "description": "",
+      "message": "ไก่งวง"
+   },
+   "country_tt": {
+      "description": "",
+      "message": "ตรินิแดดและโตเบโก"
+   },
+   "country_tv": {
+      "description": "",
+      "message": "ตูวาลู"
+   },
+   "country_tw": {
+      "description": "",
+      "message": "ไต้หวัน"
+   },
+   "country_tz": {
+      "description": "",
+      "message": "แทนซาเนีย"
+   },
+   "country_ua": {
+      "description": "",
+      "message": "ยูเครน"
+   },
+   "country_ug": {
+      "description": "",
+      "message": "ยูกันดา"
+   },
+   "country_uk": {
+      "description": "",
+      "message": "ประเทศอังกฤษ"
+   },
+   "country_um": {
+      "description": "",
+      "message": "หมู่เกาะรอบนอกของสหรัฐอเมริกา"
+   },
+   "country_us": {
+      "description": "",
+      "message": "สหรัฐ"
+   },
+   "country_usw": {
+      "description": "",
+      "message": "สหรัฐอเมริกาตะวันตก"
+   },
+   "country_uy": {
+      "description": "",
+      "message": "อุรุกวัย"
+   },
+   "country_uz": {
+      "description": "",
+      "message": "อุซเบกิสถาน"
+   },
+   "country_va": {
+      "description": "",
+      "message": "เมืองวาติกัน"
+   },
+   "country_vc": {
+      "description": "",
+      "message": "เซนต์วินเซนต์และเกรนาดีนส์"
+   },
+   "country_ve": {
+      "description": "",
+      "message": "เวเนซุเอลา"
+   },
+   "country_vg": {
+      "description": "",
+      "message": "หมู่เกาะบริติชเวอร์จิน"
+   },
+   "country_vi": {
+      "description": "",
+      "message": "หมู่เกาะเวอร์จินของสหรัฐอเมริกา"
+   },
+   "country_vn": {
+      "description": "",
+      "message": "เวียดนาม"
+   },
+   "country_vu": {
+      "description": "",
+      "message": "วานูอาตู"
+   },
+   "country_wf": {
+      "description": "",
+      "message": "วาลลิสและฟุตูนา"
+   },
+   "country_ws": {
+      "description": "",
+      "message": "ซามัว"
+   },
+   "country_xk": {
+      "description": "",
+      "message": "โคโซโว"
+   },
+   "country_ye": {
+      "description": "",
+      "message": "เยเมน"
+   },
+   "country_yt": {
+      "description": "",
+      "message": "มายอต"
+   },
+   "country_za": {
+      "description": "",
+      "message": "แอฟริกาใต้"
+   },
+   "country_zm": {
+      "description": "",
+      "message": "แซมเบีย"
+   },
+   "country_zw": {
+      "description": "",
+      "message": "ซิมบับเว"
+   },
+   "dedicated_traffic_lanes": {
+      "description": "",
+      "message": "ผู้ใช้ระดับพรีเมียมเพลิดเพลินกับช่องทางจราจรโดยเฉพาะ"
+   },
+   "delete_smart_setting_for_X": {
+      "description": "",
+      "message": "ลบการตั้งค่าอัจฉริยะสำหรับ XXX"
+   },
+   "disable": {
+      "description": "",
+      "message": "ปิดการใช้งาน"
+   },
+   "disable_selected_extensions": {
+      "description": "",
+      "message": "ปิดการใช้งานส่วนขยายที่เลือก"
+   },
+   "dont_have_an_account": {
+      "description": "",
+      "message": "ยังไม่มีบัญชี?"
+   },
+   "dont_send_telemetry": {
+      "description": "",
+      "message": "อย่าส่งการตรวจวัดทางไกล"
+   },
+   "dont_show_promo_offers": {
+      "description": "",
+      "message": "อย่าแสดงข้อเสนอโปรโมชัน"
+   },
+   "edit_smart_settings": {
+      "description": "",
+      "message": "แก้ไขการตั้งค่าอัจฉริยะ"
+   },
+   "email": {
+      "description": "",
+      "message": "อีเมล"
+   },
+   "enable_browsec_for_all_sites_excluding_selected_sites": {
+      "description": "",
+      "message": "เปิดใช้งาน Browserc สำหรับเว็บไซต์ทั้งหมด ยกเว้นเว็บไซต์ที่เลือก"
+   },
+   "enable_browsec_for_all_sites_excluding_selected_sites_description_1": {
+      "description": "",
+      "message": "เปิดใช้งาน Browserc"
+   },
+   "enable_browsec_for_all_sites_excluding_selected_sites_description_2": {
+      "description": "",
+      "message": "คลิกการตั้งค่าอัจฉริยะ → แก้ไขการตั้งค่าอัจฉริยะ"
+   },
+   "enable_browsec_for_all_sites_excluding_selected_sites_description_3": {
+      "description": "",
+      "message": "พิมพ์โดเมนที่ต้องการ เลือกปิด แล้วคลิก IMG"
+   },
+   "enable_browsec_only_for_selected_sites": {
+      "description": "",
+      "message": "เปิดใช้งาน Browserc สำหรับเว็บไซต์ที่เลือกเท่านั้น"
+   },
+   "enable_browsec_only_for_selected_sites_description_1": {
+      "description": "",
+      "message": "ปิดการใช้งาน Browserc"
+   },
+   "enable_browsec_only_for_selected_sites_description_2": {
+      "description": "",
+      "message": "คลิกการตั้งค่าอัจฉริยะ → แก้ไขการตั้งค่าอัจฉริยะ"
+   },
+   "enable_browsec_only_for_selected_sites_description_3": {
+      "description": "",
+      "message": "พิมพ์โดเมนที่ต้องการ เลือกประเทศสำหรับโดเมนนี้ แล้วคลิก IMG"
+   },
+   "esn": {
+      "description": "",
+      "message": "Browsec VPN"
+   },
+   "extension_description": {
+      "description": "",
+      "message": "One of the best VPN services"
+   },
+   "extension_name": {
+      "description": "",
+      "message": "Free VPN Chrome"
+   },
+   "failed": {
+      "description": "",
+      "message": "ล้มเหลว"
+   },
+   "fix_it": {
+      "description": "",
+      "message": "ซ่อมมัน"
+   },
+   "fix_proxy_settings": {
+      "description": "",
+      "message": "แก้ไขการตั้งค่าพร็อกซี"
+   },
+   "for_only": {
+      "description": "",
+      "message": "เพียงเท่านั้น"
+   },
+   "forgot_your_password": {
+      "description": "",
+      "message": "ลืมรหัสผ่านหรือไม่?"
+   },
+   "free_servers": {
+      "description": "",
+      "message": "เซิร์ฟเวอร์ฟรี"
+   },
+   "from_only_X_per_month": {
+      "description": "",
+      "message": "เริ่มต้นเพียง XXX ต่อเดือน!"
+   },
+   "get_N_days_free_premium_trial": {
+      "description": "",
+      "message": "รับสิทธิ์ทดลองใช้แบบพรีเมียมฟรี XXX วัน"
+   },
+   "get_free_premium": {
+      "description": "",
+      "message": "รับพรีเมี่ยมฟรี!"
+   },
+   "get_monthly_premium": {
+      "description": "",
+      "message": "รับพรีเมี่ยมรายเดือน"
+   },
+   "get_more_with_browsec_premium": {
+      "description": "",
+      "message": "รับประโยชน์มากขึ้นด้วย Browserc Premium"
+   },
+   "get_premium_now": {
+      "description": "",
+      "message": "รับพรีเมี่ยมทันที!"
+   },
+   "get_turbo_speed": {
+      "description": "",
+      "message": "รับความเร็วเทอร์โบ"
+   },
+   "go_ahead_and_renew_it": {
+      "description": "",
+      "message": "ไปข้างหน้าและต่ออายุมัน"
+   },
+   "go_back": {
+      "description": "",
+      "message": "กลับไป"
+   },
+   "health_check": {
+      "description": "",
+      "message": "ตรวจสุขภาพ"
+   },
+   "help": {
+      "description": "",
+      "message": "ช่วย"
+   },
+   "hide_health_check_logs": {
+      "description": "",
+      "message": "ซ่อนบันทึกการตรวจสุขภาพ"
+   },
+   "home": {
+      "description": "",
+      "message": "บ้าน"
+   },
+   "how_to_use_smart_settings": {
+      "description": "",
+      "message": "วิธีใช้การตั้งค่าอัจฉริยะ"
+   },
+   "i_want_to": {
+      "description": "",
+      "message": "ฉันต้องการ:"
+   },
+   "incorrect_email_or_password": {
+      "description": "",
+      "message": "อีเมลหรือรหัสผ่านไม่ถูกต้อง"
+   },
+   "locations_help_1": {
+      "description": "",
+      "message": "Browserc สามารถสร้างการเชื่อมต่อที่ปลอดภัยโดยใช้เซิร์ฟเวอร์ของเราที่ตั้งอยู่ในประเทศเหล่านี้ คุณจะได้รับที่อยู่ IP ที่เป็นของสถานที่ที่เลือกและท่องเว็บราวกับว่าคุณอยู่ที่นั่นจริงๆ"
+   },
+   "locations_help_2": {
+      "description": "",
+      "message": "หากต้องการเข้าถึงเนื้อหาที่มีให้บริการสำหรับประเทศใดประเทศหนึ่งเท่านั้น ให้เลือกตำแหน่งเสมือนที่เกี่ยวข้อง"
+   },
+   "locations_help_3": {
+      "description": "",
+      "message": "หากต้องการซ่อนตำแหน่งของคุณ (ด้วยเหตุผลด้านความเป็นส่วนตัวหรือเพื่อเข้าถึงเนื้อหาที่ถูกแบนในประเทศของคุณ) ให้เลือกสถานที่ใดก็ได้ โปรดทราบว่ายิ่งตำแหน่งเสมือนอยู่ใกล้กับสถานที่จริงของคุณมากเท่าใด ความเร็วการเชื่อมต่อก็จะยิ่งสูงขึ้นเท่านั้น"
+   },
+   "off": {
+      "description": "",
+      "message": "ปิด"
+   },
+   "ok_i_got_it": {
+      "description": "",
+      "message": "โอเคเข้าใจแล้ว"
+   },
+   "on": {
+      "description": "",
+      "message": "บน"
+   },
+   "one_smart_setting_description_1": {
+      "description": "",
+      "message": "โปรดอัปเกรดเป็นพรีเมียมเพื่อรับการตั้งค่าอัจฉริยะไม่จำกัด และรองรับการพัฒนา Browserc"
+   },
+   "one_smart_setting_description_2": {
+      "description": "",
+      "message": "คุณยังจะได้รับ:"
+   },
+   "one_smart_setting_description_list_1": {
+      "description": "",
+      "message": "เข้าถึงสถานที่เสมือนจริงระดับพรีเมียมมากกว่า 40 แห่ง"
+   },
+   "one_smart_setting_description_list_2": {
+      "description": "",
+      "message": "ความเร็วเทอร์โบ"
+   },
+   "only_X_per_month": {
+      "description": "",
+      "message": "เพียง XXX ต่อเดือน"
+   },
+   "other_websites": {
+      "description": "",
+      "message": "เว็บไซต์อื่นๆ"
+   },
+   "password": {
+      "description": "",
+      "message": "รหัสผ่าน"
+   },
+   "pin_the_browsec_extension": {
+      "description": "",
+      "message": "ปักหมุดส่วนขยาย Browserc"
+   },
+   "please_enter_domain": {
+      "description": "",
+      "message": "กรุณากรอกโดเมน"
+   },
+   "please_enter_valid_domain": {
+      "description": "",
+      "message": "กรุณากรอกโดเมนที่ถูกต้อง"
+   },
+   "please_try_again_or_contact_support": {
+      "description": "",
+      "message": "โปรดลองอีกครั้งหรือติดต่อฝ่ายสนับสนุนของ Browserc"
+   },
+   "premium_locations": {
+      "description": "",
+      "message": "สถานที่ระดับพรีเมียม"
+   },
+   "premium_server_authentication_error": {
+      "description": "",
+      "message": "เกิดข้อผิดพลาดในการรับรองความถูกต้องเซิร์ฟเวอร์ระดับพรีเมียม กรุณาตรวจสอบสถานะพรีเมี่ยมของคุณ"
+   },
+   "premium_servers": {
+      "description": "",
+      "message": "เซิร์ฟเวอร์ระดับพรีเมียม"
+   },
+   "privacy_protection_disabled": {
+      "description": "",
+      "message": "การคุ้มครองความเป็นส่วนตัวถูกปิดใช้งาน"
+   },
+   "protect_me": {
+      "description": "",
+      "message": "ปกป้องฉัน"
+   },
+   "remove_cache_on_authorization_popups": {
+      "description": "",
+      "message": "ลบแคชในป๊อปอัปการอนุญาต (ทดลอง)"
+   },
+   "remove_smart_setting": {
+      "description": "",
+      "message": "ลบการตั้งค่าอัจฉริยะ"
+   },
+   "running": {
+      "description": "",
+      "message": "วิ่ง"
+   },
+   "running_dots": {
+      "description": "",
+      "message": "วิ่ง..."
+   },
+   "select": {
+      "description": "",
+      "message": "เลือก"
+   },
+   "select_allow_in_popup_window": {
+      "description": "",
+      "message": "คลิก \"อนุญาต\" ในหน้าต่างป๊อปอัป"
+   },
+   "setting_was_deleted": {
+      "description": "",
+      "message": "ลบการตั้งค่าแล้ว"
+   },
+   "settings": {
+      "description": "",
+      "message": "การตั้งค่า"
+   },
+   "show_health_check_logs": {
+      "description": "",
+      "message": "แสดงบันทึกการตรวจสุขภาพ"
+   },
+   "sign_in": {
+      "description": "",
+      "message": "เข้าสู่ระบบ"
+   },
+   "sign_in_title": {
+      "description": "",
+      "message": "เข้าสู่ระบบ"
+   },
+   "sign_out": {
+      "description": "",
+      "message": "ออกจากระบบ"
+   },
+   "sign_up": {
+      "description": "",
+      "message": "ลงชื่อ"
+   },
+   "skipped": {
+      "description": "",
+      "message": "ข้ามไป"
+   },
+   "smart_settings": {
+      "description": "",
+      "message": "การตั้งค่าอัจฉริยะ"
+   },
+   "smart_settings_allow_you_to_control": {
+      "description": "",
+      "message": "การตั้งค่าอัจฉริยะช่วยให้คุณควบคุม Browserc ได้มากขึ้น"
+   },
+   "smart_settings_features_1": {
+      "description": "",
+      "message": "เปิดใช้งาน Browserc สำหรับเว็บไซต์ที่เลือกเท่านั้น"
+   },
+   "smart_settings_features_2": {
+      "description": "",
+      "message": "ห้ามใช้ Browserc สำหรับเว็บไซต์ที่เลือก แม้ว่าจะเปิดใช้งานสำหรับเว็บไซต์อื่นๆ ทั้งหมดแล้วก็ตาม"
+   },
+   "smart_settings_features_3": {
+      "description": "",
+      "message": "เลือกตำแหน่งเสมือนที่แตกต่างกันสำหรับเว็บไซต์ต่างๆ"
+   },
+   "something_went_wrong": {
+      "description": "",
+      "message": "บางอย่างผิดพลาด..."
+   },
+   "start": {
+      "description": "",
+      "message": "เริ่ม"
+   },
+   "start_vpn": {
+      "description": "",
+      "message": "เริ่ม VPN"
+   },
+   "this_account_is_locked_please_contact_us": {
+      "description": "",
+      "message": "บัญชีนี้ถูกล็อค\\nโปรดติดต่อเราเพื่อกู้คืนบัญชีของคุณ"
+   },
+   "this_domain_already_in_list": {
+      "description": "",
+      "message": "โดเมนนี้มีอยู่แล้วในรายการ"
+   },
+   "this_option_is_available_only_for_premium": {
+      "description": "",
+      "message": "ตัวเลือกนี้ใช้ได้เฉพาะกับบัญชีพรีเมียมเท่านั้น"
+   },
+   "top_performance_guaranteed": {
+      "description": "",
+      "message": "เซิร์ฟเวอร์ที่ดีที่สุดในระดับเดียวกันของเรารับประกันประสิทธิภาพสูงสุด"
+   },
+   "try_again": {
+      "description": "",
+      "message": "ลองอีกครั้ง"
+   },
+   "turbo_speed": {
+      "description": "",
+      "message": "ความเร็วเทอร์โบ"
+   },
+   "turbo_speed_in_free_premium": {
+      "description": "",
+      "message": "ความเร็วเทอร์โบในระดับพรีเมียมฟรี"
+   },
+   "undo": {
+      "description": "",
+      "message": "เลิกทำ"
+   },
+   "upgrade_connection_speed": {
+      "description": "",
+      "message": "อัพเกรดความเร็วการเชื่อมต่อ"
+   },
+   "upgrade_to_premium": {
+      "description": "",
+      "message": "อัปเกรดเป็นพรีเมียม"
+   },
+   "use": {
+      "description": "",
+      "message": "ใช้"
+   },
+   "use_browsec_for_webrtc_connections": {
+      "description": "",
+      "message": "ใช้ Browserc สำหรับการเชื่อมต่อ WebRTC"
+   },
+   "use_different_locations_for_different_sites": {
+      "description": "",
+      "message": "ใช้สถานที่ที่แตกต่างกันสำหรับเว็บไซต์ที่แตกต่างกัน"
+   },
+   "use_different_locations_for_different_sites_description_1": {
+      "description": "",
+      "message": "เปิดใช้งาน Browserc"
+   },
+   "use_different_locations_for_different_sites_description_2": {
+      "description": "",
+      "message": "คลิกการตั้งค่าอัจฉริยะ → แก้ไขการตั้งค่าอัจฉริยะ"
+   },
+   "use_different_locations_for_different_sites_description_3": {
+      "description": "",
+      "message": "พิมพ์โดเมนที่ต้องการ เลือกประเทศสำหรับโดเมนนี้ แล้วคลิก IMG"
+   },
+   "virtual_locations": {
+      "description": "",
+      "message": "สถานที่เสมือนจริง"
+   },
+   "warning": {
+      "description": "",
+      "message": "คำเตือน"
+   },
+   "we_have_detected_other_extensions_which_block_access": {
+      "description": "",
+      "message": "เราตรวจพบส่วนขยายอื่นๆ ที่บล็อกการเข้าถึงการตั้งค่าพร็อกซี ปิดการใช้งานส่วนขยายเหล่านี้เพื่อใช้ Browserc"
+   },
+   "we_have_detected_other_extensions_which_can_conflict": {
+      "description": "",
+      "message": "เราตรวจพบส่วนขยายอื่นๆ ที่อาจขัดแย้งกับ Browserc พิจารณาปิดการใช้งานส่วนขยายเหล่านี้หาก Browserc ทำงานไม่ถูกต้อง"
+   },
+   "webrtc_settings_controlled_by_another_extension": {
+      "description": "",
+      "message": "การตั้งค่า WebRTC ถูกควบคุมโดยส่วนขยายอื่น"
+   },
+   "welcome_back": {
+      "description": "",
+      "message": "ยินดีต้อนรับกลับ!"
+   },
+   "what_is_webrtc_text_1": {
+      "description": "",
+      "message": "WebRTC (การสื่อสารแบบเรียลไทม์บนเว็บ) เป็นโปรโตคอลที่ช่วยให้สามารถโทรด้วยเสียงและวิดีโอจากเบราว์เซอร์"
+   },
+   "what_is_webrtc_text_2": {
+      "description": "",
+      "message": "อย่างไรก็ตาม WebRTC ยังอนุญาตให้เว็บไซต์ทราบ IP ภายในและสาธารณะที่แท้จริงของคุณ แม้ว่าคุณจะใช้ VPN (เรียกว่า IP รั่วไหลของ WebRTC)"
+   },
+   "what_is_webrtc_text_3": {
+      "description": "",
+      "message": "ตัวเลือกนี้จะป้องกัน IP ของ WebRTC รั่วไหลเมื่อเปิดใช้งาน Browserc ผลข้างเคียงอาจส่งผลต่อคุณภาพของการโทรด้วยเสียง/วิดีโอจากเบราว์เซอร์ ดังนั้นคุณจึงขึ้นอยู่กับคุณว่าจะเลือกสิ่งที่สำคัญที่สุดสำหรับคุณ"
+   },
+   "what_is_webrtc_title": {
+      "description": "",
+      "message": "WebRTC คืออะไร?"
+   },
+   "with_smart_settings_you_can": {
+      "description": "",
+      "message": "ด้วยการตั้งค่าอัจฉริยะ คุณสามารถ:"
+   },
+   "you_can_enable_these_extensions_later": {
+      "description": "",
+      "message": "คุณสามารถเปิดใช้งานส่วนขยายเหล่านี้ได้ในภายหลังในการตั้งค่าเบราว์เซอร์"
+   },
+   "you_can_have_only_1_smart_setting": {
+      "description": "",
+      "message": "คุณสามารถมีการตั้งค่าอัจฉริยะได้เพียง 1 รายการในแผนฟรี"
+   },
+   "you_just_installed_browsec": {
+      "description": "",
+      "message": "คุณเพิ่งติดตั้ง Browserc!"
+   },
+   "you_may_now_open_the_extension": {
+      "description": "",
+      "message": "ตอนนี้คุณสามารถเปิดส่วนขยายเพื่อเริ่ม VPN ได้"
+   },
+   "your_browsers_connections_are_not_encrypted": {
+      "description": "",
+      "message": "การเชื่อมต่อเบราว์เซอร์ของคุณไม่ได้เข้ารหัส IP และตำแหน่งของคุณมีให้สำหรับบุคคลที่สาม"
+   },
+   "your_premium_is_about_to_expire": {
+      "description": "",
+      "message": "Browserc Premium ของคุณกำลังจะหมดอายุ"
+   },
+   "your_privacy_is_protected": {
+      "description": "",
+      "message": "ความเป็นส่วนตัวของคุณได้รับการคุ้มครอง"
+   },
+   "your_proxy_settings_are_blocked": {
+      "description": "",
+      "message": "การตั้งค่าพร็อกซีของคุณถูกบล็อกโดยส่วนขยายอื่น"
+   }
+}

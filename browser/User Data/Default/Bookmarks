@@ -1,0 +1,181 @@
+{
+   "checksum": "27e5e8f85f9210c55557f38bb3f2d21e",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "date_added": "13149365015000000",
+            "date_last_used": "0",
+            "guid": "6ac13148-691b-45cb-8fee-2bf49e2265e6",
+            "id": "5",
+            "name": "Падает вкладка",
+            "type": "url",
+            "url": "chrome://kill/"
+         }, {
+            "children": [ {
+               "date_added": "13204841579000000",
+               "date_last_used": "0",
+               "guid": "9391bff5-a7fb-4375-ba49-820160d6f666",
+               "id": "7",
+               "name": "Яндекс",
+               "type": "url",
+               "url": "https://yandex.ru/?xbn=centbrowser"
+            }, {
+               "date_added": "13149366751000000",
+               "date_last_used": "0",
+               "guid": "65cfb8fb-1b19-4ddc-babd-d5a938de43a9",
+               "id": "8",
+               "name": "ВКонтакте",
+               "type": "url",
+               "url": "https://vk.com/"
+            }, {
+               "date_added": "13149366903000000",
+               "date_last_used": "0",
+               "guid": "6f8a7875-9457-4faa-91c2-cbc449de60c6",
+               "id": "9",
+               "name": "YouTube",
+               "type": "url",
+               "url": "https://www.youtube.com/"
+            }, {
+               "date_added": "13149378771000000",
+               "date_last_used": "0",
+               "guid": "e24f473c-f4f6-4c0c-8050-eb7b35ddb449",
+               "id": "10",
+               "name": "Ivi.tv",
+               "type": "url",
+               "url": "https://www.ivi.tv/"
+            }, {
+               "date_added": "13149378948000000",
+               "date_last_used": "0",
+               "guid": "c83db40a-f3c6-4128-8328-23b9906ad883",
+               "id": "11",
+               "name": "Rutube",
+               "type": "url",
+               "url": "https://rutube.ru/"
+            }, {
+               "date_added": "13149367328000000",
+               "date_last_used": "0",
+               "guid": "77fdcfca-d50d-45a9-9c90-a1c2f8296f01",
+               "id": "12",
+               "name": "Instagram",
+               "type": "url",
+               "url": "https://www.instagram.com/"
+            }, {
+               "date_added": "13149366968000000",
+               "date_last_used": "0",
+               "guid": "4da38608-28ef-4c49-9e03-d44e7e57c410",
+               "id": "13",
+               "name": "Mail.Ru",
+               "type": "url",
+               "url": "https://mail.ru/"
+            }, {
+               "date_added": "13149367069000000",
+               "date_last_used": "0",
+               "guid": "86cfea53-dc0c-4f89-b142-9f20b9829234",
+               "id": "14",
+               "name": "OK.RU",
+               "type": "url",
+               "url": "https://ok.ru/"
+            }, {
+               "date_added": "13149367003000000",
+               "date_last_used": "0",
+               "guid": "bc6d019e-2574-42fe-9fc3-7671a20b4af6",
+               "id": "15",
+               "name": "Рамблер",
+               "type": "url",
+               "url": "https://www.rambler.ru/"
+            }, {
+               "date_added": "13149369371000000",
+               "date_last_used": "0",
+               "guid": "bf16a646-5cf9-4a26-891b-324256be3ddb",
+               "id": "16",
+               "name": "Lenta.ru",
+               "type": "url",
+               "url": "https://lenta.ru/"
+            }, {
+               "date_added": "13149369596000000",
+               "date_last_used": "0",
+               "guid": "9757fe7d-958d-450d-9d61-32771ae42a35",
+               "id": "17",
+               "name": "RT на русском",
+               "type": "url",
+               "url": "https://russian.rt.com/"
+            }, {
+               "date_added": "13149370079000000",
+               "date_last_used": "0",
+               "guid": "50455b0a-b07e-4f4a-ad50-6d569fe652ca",
+               "id": "18",
+               "name": "KP.RU",
+               "type": "url",
+               "url": "https://www.kp.ru/"
+            }, {
+               "date_added": "13149373171000000",
+               "date_last_used": "0",
+               "guid": "31918cc2-018d-4cfd-b0eb-6a3284d7a6a0",
+               "id": "19",
+               "name": "РИА Новости",
+               "type": "url",
+               "url": "https://ria.ru/"
+            }, {
+               "date_added": "13149379706000000",
+               "date_last_used": "0",
+               "guid": "abe6d94b-dd5e-40c2-86ce-2d8409efdd00",
+               "id": "20",
+               "name": "Avito",
+               "type": "url",
+               "url": "https://www.avito.ru/"
+            } ],
+            "date_added": "13367534380041780",
+            "date_last_used": "0",
+            "date_modified": "0",
+            "guid": "b9661cb1-f441-43e9-a7f0-df107a5e5160",
+            "id": "6",
+            "name": "Популярные",
+            "type": "folder"
+         }, {
+            "date_added": "13149374757000000",
+            "date_last_used": "0",
+            "guid": "5fca23eb-497c-4d88-b191-085ec3f0d95e",
+            "id": "21",
+            "name": "AliExpress",
+            "type": "url",
+            "url": "https://aliclick.shop/r/c/1r0jrdewaup76tfv"
+         }, {
+            "date_added": "13149213539000000",
+            "date_last_used": "0",
+            "guid": "1373b795-faa1-4f15-bce3-37f65728ac53",
+            "id": "22",
+            "name": "Импортировать закладки",
+            "type": "url",
+            "url": "chrome://settings/importData"
+         } ],
+         "date_added": "13367534379849237",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "0bc5d13f-2cba-5d74-951f-3f233fe6c908",
+         "id": "1",
+         "name": "Панель закладок",
+         "type": "folder"
+      },
+      "other": {
+         "children": [  ],
+         "date_added": "13367534379849239",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "82b081ec-3dd3-529c-8475-ab6c344590dd",
+         "id": "2",
+         "name": "Другие закладки",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [  ],
+         "date_added": "13367534379849242",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "4cf2e351-0e85-532b-bb37-df045d8f8d0f",
+         "id": "3",
+         "name": "Моб. закладки",
+         "type": "folder"
+      }
+   },
+   "version": 1
+}

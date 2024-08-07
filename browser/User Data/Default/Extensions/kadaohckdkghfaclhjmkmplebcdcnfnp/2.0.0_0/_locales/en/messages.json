@@ -1,0 +1,10 @@
+{
+   "appDescription": {
+      "description": "The description of the application",
+      "message": "Enchanced default search engine."
+   },
+   "appName": {
+      "description": "The name of the application",
+      "message": "Planet Search"
+   }
+}
