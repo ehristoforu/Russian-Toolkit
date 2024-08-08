@@ -1,4 +1,4 @@
-# Russian-Toolkit (a.k.a. Ru-Toolkit)
+# Russian-Toolkit (a.k.a. Ru-Toolkit, RuTK)
 
 [**README in Russian**](README_ru.md)
 
